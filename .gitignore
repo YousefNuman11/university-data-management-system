@@ -1,0 +1,20 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# User files
+*.user
+
+# Logs
+*.log
+
+# Data files (IMPORTANT for you)
+UniversityData/
+*.csv
+*.xlsx
+
+# Environment
+.env
